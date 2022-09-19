@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MMDWheel", "MMDWheel.csproj", "{0CB876FC-C0FF-4235-9ABB-71212D0D28A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseWarpKey", "..\MouseWarpKey\MouseWarpKey.csproj", "{8798CA8E-238D-415F-916D-D77F73D2C3D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CB876FC-C0FF-4235-9ABB-71212D0D28A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CB876FC-C0FF-4235-9ABB-71212D0D28A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CB876FC-C0FF-4235-9ABB-71212D0D28A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CB876FC-C0FF-4235-9ABB-71212D0D28A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8798CA8E-238D-415F-916D-D77F73D2C3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8798CA8E-238D-415F-916D-D77F73D2C3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8798CA8E-238D-415F-916D-D77F73D2C3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8798CA8E-238D-415F-916D-D77F73D2C3D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CF7135E-91B5-4F4F-B478-0956DF67DFDA}
+	EndGlobalSection
+EndGlobal
